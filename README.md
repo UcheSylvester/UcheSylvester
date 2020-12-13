@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>Sylvester</B></h3>
 <p align="center">
-  <a href="https://linkedin.com/in/uchenna-okoro">LinkedIn</a>
-  <a href="https://twitter.com/UCylvester">Twitter</a>
+  <a href="https://linkedin.com/in/uchenna-okoro" target="_blank">LinkedIn</a>
+  <a href="https://twitter.com/UCylvester" target="_blank">Twitter</a>
 </p>
 
 <br />
