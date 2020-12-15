@@ -11,13 +11,13 @@ A Software developer who works mostly on the front end of all things web and in 
 
 I enjoy working in teams, pair programming and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, submitting PRs and sometimes building them myself! 🔥🚀
 
-When I'm not slaping my keyboard to make magic happen, I devote my time to developer communities and mentoring upcoming developers. 🤗🤗
+When I'm not slaping my keyboard to make magic happen, I devote my time to developer communities and mentoring upcoming developers 🤗🤗
 
 - 😄 Pronouns: he/him.
 - 🌱 I’m currently learning Node.js and all things backend
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about React.js, Web Performance, PWA, Testing, Open Source, Developer Communities...
-- ⚡ Fun fact: I can see you with my eyes closed 😆.
+- ⚡ Fun fact: I can see you with my eyes closed 😆
 
 ## &#x1f4c8; GitHub Stats
 
