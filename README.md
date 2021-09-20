@@ -24,5 +24,3 @@ When I'm not slaping my keyboard to make magic happen, I devote my time to devel
 ![UcheSylvester's github stats](https://github-readme-stats.vercel.app/api?username=uchesylvester&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchesylvester&layout=compact&theme=tokyonight)](https://github.com/UcheSylvester)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UcheSylvester&margin-w=5&theme=onedark" alt="codesait" /></a> </p>
