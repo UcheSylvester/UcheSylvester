@@ -14,7 +14,7 @@ I enjoy working in teams, pair programming and collaborating with other develope
 When I'm not slaping my keyboard to make magic happen, I devote my time to developer communities and mentoring upcoming developers 🤗🤗
 
 - 😄 Pronouns: he/him.
-- 🌱 I’m currently learning Node.js and all things backend
+- 🌱 I’m currently learning Solidity, Smart Contracts and all things Web3 🔥🚀
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about React.js, Web Performance, PWA, Testing, Open Source, Developer Communities...
 - ⚡ Fun fact: I can see you with my eyes closed 😆
