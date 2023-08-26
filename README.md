@@ -7,15 +7,15 @@
 <br />
 <!-- <hr> -->
 
-A Software developer who works mostly on the front end of all things web and in consistent quest for opportunities to learn and grow!
+A Software developer who works mainly on the front end of all things web and in a consistent quest for opportunities to learn and grow!
 
-I enjoy working in teams, pair programming and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, submitting PRs and sometimes building them myself! 🔥🚀
+I enjoy working in teams, pair programming, and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, submitting PRs, and sometimes building them myself! 🔥🚀
 
-When I'm not slaping my keyboard to make magic happen, I devote my time to developer communities and mentoring upcoming developers 🤗🤗
+When I'm not slapping my keyboard to make magic happen, I devote my time to developer communities and mentoring upcoming developers 🤗🤗
 
 - 😄 Pronouns: he/him.
-- 🌱 I’m currently learning React Native, Solidity, Smart Contracts and all things Web3 🔥🚀
-- 👯 I’m looking to collaborate on more open source projects.
+- 🌱 I’m currently learning React Native, Solidity, Smart Contracts, and all things Web3 🔥🚀
+- 👯 I’m looking to collaborate on more open-source projects.
 - 💬 Ask me about React.js, Web Performance, PWA, Testing, Open Source, Developer Communities...
 - ⚡ Fun fact: I can see you with my eyes closed 😆
 
@@ -24,3 +24,7 @@ When I'm not slaping my keyboard to make magic happen, I devote my time to devel
 ![UcheSylvester's github stats](https://github-readme-stats.vercel.app/api?username=uchesylvester&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchesylvester&layout=compact&theme=tokyonight)](https://github.com/UcheSylvester)
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UcheSylvester" alt="UcheSylvester's LangStat"/>
+</div>
