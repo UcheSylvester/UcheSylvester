@@ -25,6 +25,4 @@ When I'm not slapping my keyboard to make magic happen, I devote my time to deve
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchesylvester&layout=compact&theme=tokyonight)](https://github.com/UcheSylvester)
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UcheSylvester" alt="UcheSylvester's LangStat"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UcheSylvester&theme=dark)](https://git.io/streak-stats)
