@@ -7,15 +7,15 @@
 <br />
 <!-- <hr> -->
 
-A Software developer who works mainly on the front end of all things web and in a consistent quest for opportunities to learn and grow!
+A Software Engineer consistently learning, building and growing! I enjoy working independently and also in teams, pair programming, and collaborating with other developers on innovative solutions. 
 
-I enjoy working in teams, pair programming, and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, submitting PRs, and sometimes building them myself! 🔥🚀
+You'll mainly find me poking around open-source projects, opening issues, submitting PRs, and sometimes building them myself! 🔥🚀
 
-When I'm not slapping my keyboard to make magic happen, I devote my time to developer communities and mentoring upcoming developers 🤗🤗
+When I'm not slapping my keyboard to make magic happen, I devote my time to developer communities and mentoring 🤗🤗
 
 - 😄 Pronouns: he/him.
-- 🌱 I’m currently learning React Native, Solidity, Smart Contracts, and all things Web3 🔥🚀
-- 👯 I’m looking to collaborate on more open-source projects.
+- 🌱 I’m currently learning Solidity, Smart Contracts, and all things Web3 🔥🚀
+- 👯 Building anf looking to collaborate on more open-source projects.
 - 💬 Ask me about React.js, Web Performance, PWA, Testing, Open Source, Developer Communities...
 - ⚡ Fun fact: I can see you with my eyes closed 😆
 
